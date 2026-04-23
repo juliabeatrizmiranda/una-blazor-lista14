@@ -1,0 +1,3 @@
+Nome: Julia Beatriz Miranda.
+Curso: Analise e Desemvolvimento de Sistemas.
+A atividade consiste em atualizar a aplicação “MeuCurriculo” desenvolvida em .NET (console), com o objetivo de personalizar o conteúdo para refletir seus dados profissionais de forma mais organizada e profissional; o projeto pode ser executado via terminal utilizando o comando `dotnet run`, e a tecnologia utilizada foi **.NET (C#)**; a aplicação deve apresentar informações como nome, formação, habilidades e experiências, podendo ser organizada com menus ou melhor formatação no console; a proposta é melhorar o layout textual e adicionar informações relevantes, deixando o currículo mais completo, claro e com aparência mais profissional.
